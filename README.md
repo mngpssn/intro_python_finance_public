@@ -28,10 +28,10 @@ into scalable and enterprise level applications.
 ### Logistics:
 
 Every class we will study and practice a topic. Each class will be divided in two sections: In the first 
-section I will introduce the main concepts and ideas. Then we will do a series of exercises together and
+section, I will introduce the main concepts and ideas. Then we will do a series of exercises together and
 individually. The objective of doing exercises individually is for you to have time to ask for questions 
-directly and dont miss the personal interaction when we are working virtually. During the second section
-we will review the use cases and wrap up the concepts learned in the class. At the end of the class  All the
+directly and dont miss the personal interaction when we are working virtually. During the second section,
+we will review the use cases and wrap up the concepts learned in the class. At the end of the class all the
 material will be uploaded to this repository
 
 ### Prerequisites:
@@ -45,13 +45,13 @@ in R, matlab or any other statistical package will be sufficient.
 
 
 Class 1: Introduction to Python. 
-* Python up and running
+* Python up and running.
 * local enviroments, virtual enviroments and pipenv. 
-* The Jupyter Notebook
-* Google Colab
+* The Jupyter Notebook.
+* Google Colab.
 
 Class 2: Pandas, Numpy,Scypi, Statmodels, Matplotlib and advanced visualization.
-* Object Oriented Programming in Python
+* Object Oriented Programming in Python.
 * Overview and best practices. 
 * Use cases in finance:
     * Speeding fractional differences.
@@ -67,34 +67,34 @@ Class 3: Python in Finance:
     * Portfolio creation
     
 Class 4: Introduction to Machine Learning with Python:
-* Types of machine learning
-* Optimization algorithms
-* Linear models from Machine Learning perspective
+* Types of machine learning.
+* Optimization algorithms.
+* Linear models from Machine Learning perspective.
 * Use cases in finance:
     * Advanced financial EDA.   
     
 Class 5: Advanced Machine Learning with Python:
-* Support Vector Machines
-* Decision Trees
-* Neural Networks
+* Support Vector Machines.
+* Decision Trees.
+* Neural Networks.
 * Use cases in finance:
     * Non Linear factor regressions
 
 Class 6: Advanced Python packaging and deploying applications. 
-* Packages
-* Modules
-* Repositories
-* Containers
+* Packages.
+* Modules.
+* Repositories.
+* Containers.
 
 Class 7: Advanced Python Meta Programming and Beyond:
-* Object Oriented Programming in Python
-* Decorators
-* Context Managers
-* Factories
-* Big Data with Dask
+* Object Oriented Programming in Python.
+* Decorators.
+* Context Managers.
+* Factories.
+* Big Data with Dask.
 
 Class 8: Data Science Pipelines and ETLS
-* Airflow vs Luigi
+* Airflow vs Luigi.
 * Data Pipelines with Airflow in Docker. 
 
 
